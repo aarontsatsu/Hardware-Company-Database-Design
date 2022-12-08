@@ -1,3 +1,4 @@
+-- run the entire script to show query results
 drop database if exists MrT_Hardware_Company;
 create database MrT_Hardware_Company;
 use MrT_Hardware_Company;
