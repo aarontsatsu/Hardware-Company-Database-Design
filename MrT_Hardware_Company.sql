@@ -1,6 +1,6 @@
-drop database if exists MrT_Hardware_Company_49622024;
-create database MrT_Hardware_Company_49622024;
-use MrT_Hardware_Company_49622024;
+drop database if exists MrT_Hardware_Company;
+create database MrT_Hardware_Company;
+use MrT_Hardware_Company;
 
 create table Customer(
 CustomerID varchar(5) primary key,
